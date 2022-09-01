@@ -33,7 +33,7 @@
     <td><a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slim-codes&layout=compact&langs_count=6&text_color=10FF33&icon_color=2234ae&title_color=66ff00&bg_color=000000" alt="slim-codes" height="200px;" style="max-width: 100%;" />
 </a></td>
-    <td><a href="https://github.com/anuraghazra/convoychat">
+    <td><a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=slim-codes&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=10FF33&sideNums=10FF33&currStreakNum=FFFFFF&background=000000&ring=DADD1B&fire=DADD1B&dates=FCFCFC" alt="slim-codes" height="200px;" style="max-width: 100%;" />
 </a>
     </td>
