@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [slimcodes](https://www.github.com/slim-codes)
 
-- 📝 I regularly write articles on <https://www.dev.to/slimcodes>
+- 📝 I regularly write articles on <https://slimba.hashnode.dev>
 
 ### <h2 align="left"> Blogs posts </h2>
 <!-- BLOG-POST-LIST:START -->
