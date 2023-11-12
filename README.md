@@ -2,9 +2,9 @@
 <h3 align="center">I am a frontend developer. I love working on Open Source projects when I am less busy.</h3>
 
 
-- 🔭 I’m currently working on [Todo](https://www.github.com/slim-codes/todo)
+<!-- 🔭 I’m currently working on [Todo](https://www.github.com/slim-codes/todo -->
 
-- 🌱 I’m currently learning **Angular, CSS and Figma**
+- 🌱 I’m currently learning **K8s, Docker, and Figma**
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
